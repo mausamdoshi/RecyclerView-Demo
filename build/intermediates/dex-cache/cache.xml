@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/mausam/Desktop/Samples/RecyclerViewDemo/app/build/intermediates/transforms/instantRunSlicer/debug/jars/1/5/main_slice.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3e8c8f1acdca15c5f99dc22a03b25db50dbcda13">
+        <dex dex="/Users/mausam/Desktop/Samples/RecyclerViewDemo/app/build/intermediates/transforms/dex/debug/folders/1000/5/main_slice_05297309e64367661100c644df5c3929931c8f12/classes.dex" />
+    </item>
+    <item
+        jar="/Users/mausam/Desktop/Samples/RecyclerViewDemo/app/build/intermediates/transforms/instantRunSlicer/debug/jars/1/5/main_sliceb.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a7816d22efbf1784d836934ca025bb2d2c1fa788">
+        <dex dex="/Users/mausam/Desktop/Samples/RecyclerViewDemo/app/build/intermediates/transforms/dex/debug/folders/1000/5/main_sliceb_7c0326e8022a21d63c7ac2f42e1859c9c7848505/classes.dex" />
+    </item>
+    <item
+        jar="/Users/mausam/Desktop/Samples/RecyclerViewDemo/app/build/intermediates/transforms/instantRunSlicer/debug/jars/1/1a/dependencies.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="30316a9ce7befa32e3983f6450dd6e0f401c1424">
+        <dex dex="/Users/mausam/Desktop/Samples/RecyclerViewDemo/app/build/intermediates/transforms/dex/debug/folders/1000/1a/dependencies_e50a153f884f9ba4eecd4782c0c0727d977a8588/classes.dex" />
+    </item>
+
+</items>
